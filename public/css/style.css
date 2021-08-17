@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+}
+.completed {
+    text-decoration: line-through;
+    color: green;
+}
+.not {
+    text-decoration: underline;
+}
