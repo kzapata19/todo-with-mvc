@@ -1,4 +1,4 @@
-# Todo App with MVC architecture
+# Todo App with MVC design pattern
 
 Technologies used:
 - EJS
